@@ -37,3 +37,4 @@ data/
 deploy.tar.gz
 deploy.zip
 test_*.mjs
+.neon
